@@ -1,1 +1,158 @@
-<mxfile host="app.diagrams.net" modified="2021-12-25T13:52:28.004Z" agent="5.0 (X11)" version="16.0.0" etag="inh9KbjrTd5aHtC6HOqQ" type="github"><diagram id="60aUjhip32pcZo3pTjMC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-25T15:13:31.078Z" agent="5.0 (X11)" etag="6nlztADHBoaNDoAer9SQ" version="16.0.0" type="github">
+  <diagram id="60aUjhip32pcZo3pTjMC" name="Page-1">
+    <mxGraphModel dx="782" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-1" target="UIRtPsSLRUZ2GGGTHiNp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-2" target="UIRtPsSLRUZ2GGGTHiNp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-2" value="random.randint(1, 100)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-3" target="UIRtPsSLRUZ2GGGTHiNp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-3" value="count = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-4" target="UIRtPsSLRUZ2GGGTHiNp-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="195" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-4" target="UIRtPsSLRUZ2GGGTHiNp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-4" value="count &amp;lt;= 10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-5" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-6" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-7" target="UIRtPsSLRUZ2GGGTHiNp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-7" value="Ввод: answer = Отгадайте число от 1 до 100. У вас 10 попыток. Наберите stop для прекращения игры:" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="515" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-8" target="UIRtPsSLRUZ2GGGTHiNp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-8" value="count += 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-9" target="UIRtPsSLRUZ2GGGTHiNp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-9" target="UIRtPsSLRUZ2GGGTHiNp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-9" value="answer = stop or count = 10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="600" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-16" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-17" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-18" target="UIRtPsSLRUZ2GGGTHiNp-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="660" />
+              <mxPoint x="750" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-18" value="Вывод: Игра прекращена. Было загадано число num" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="630" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-20" target="UIRtPsSLRUZ2GGGTHiNp-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="910" />
+              <mxPoint x="720" y="530" />
+              <mxPoint x="400" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-20" value="Вывод:Ваше число больше загаданного. попробуйте еще раз. Осталось count попыток." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="880" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-21" target="UIRtPsSLRUZ2GGGTHiNp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-21" target="UIRtPsSLRUZ2GGGTHiNp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-21" value="int(answer) &amp;gt; num" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-26" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-27" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-28" target="UIRtPsSLRUZ2GGGTHiNp-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-28" target="UIRtPsSLRUZ2GGGTHiNp-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="885" />
+              <mxPoint x="400" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-28" value="int(answer) &amp;lt; num" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-30" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-31" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-32" target="UIRtPsSLRUZ2GGGTHiNp-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="1010" />
+              <mxPoint x="720" y="530" />
+              <mxPoint x="400" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-32" value="Вывод: Ваше число меньше загаданного. Попробуйте еще раз. Осталось count попыток." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="980" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UIRtPsSLRUZ2GGGTHiNp-35" target="UIRtPsSLRUZ2GGGTHiNp-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-35" value="Вывод: Верно! Вы победили!" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="970" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UIRtPsSLRUZ2GGGTHiNp-38" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1060" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
